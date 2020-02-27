@@ -1,0 +1,38 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.surilogo{
+  margin-left: 10rem;
+  background-color: #e83e8c;
+  width: 8rem;
+}
+
+.barramen {
+  background-color: #e83e8c;
+}
+
+.textoheader {
+  color: #e83e8c;
+  text-align: center;
+}
+
+.logo-footer {
+  background-color: #e83e8c;
+  padding: 50px;
+}
+
+.textfooter {
+  background-color: #17a2b8;
+  /* padding: 3rem;
+  padding-right: 3rem; */
+}
+
+.barramen2 {
+  padding: 3rem;
+  display: inline-block;
+}
+.icons-section {
+  padding: 4rem;
+  background-color: #17a2b8;
+}
